@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.c": "c",
+    "*.py": "python",
+    "cstdlib": "c",
+    "vector": "c",
+    "iosfwd": "c",
+    "typeinfo": "c",
+    "chrono": "c",
+    "text_encoding": "c",
+    "__locale": "c",
+    "functional": "c"
+  }
+}
