@@ -41,8 +41,7 @@ bool StudentRead(char *filename, Student **stu, int *numelem) {
 
     int rtv;
     rtv = fseek(fp, 0, SEEK_SET);
-    if (rtv == -1)
-    {
+    if (rtv == -1) {
         fclose(fp);
         return false;
     }
